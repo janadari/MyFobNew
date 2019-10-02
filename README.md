@@ -1,3 +1,6 @@
 # The-Fob
 
-Password Manager App for Android
+Password Manager Application for Android 
+
+(2nd yr 2nd sem)
+by sj
